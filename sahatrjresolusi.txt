@@ -1,0 +1,15 @@
+<!--
+///////////////////////////////////////////////////////////
+//   _________      .__            __ __________     __  //
+//  /   _____/____  |  |__ _____ _/  |\______   \   |__| //
+//  \_____  \\__  \ |  |  \\__  \\   __\       _/   |  | //
+//  /        \/ __ \|   Y  \/ __ \|  | |    |   \   |  | //
+// /_______  (____  /___|  (____  /__| |____|_  /\__|  | //
+//  	     \/     \/     \/     \/            \/\______| //
+//		//         sahatmaruliart@gmail.com         //	 	 //
+///////////////////////////////////////////////////////////
+-->
+//* SahatRj Resolusi *//
++ Membuat Blog Pribadi dengan basis PHP
++ Mengerti dan paham dengan segala aspek untuk menjadi FRONT END & BACK END DEVELOPER
++ Menjadi PROGRAMMER
